@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+  <channel>
+    <title>Odyssey Exchange - Алғашқы Мемкоин Сауда Платформасы</title>
+    <link>https://ody.kz</link>
+    <description>0% спот комиссиясымен мемкоиндер саудасын жасаңыз, ликвидациядан 10% қайтарым алыңыз және Odyssey Exchange-те 777x дейін леверидж алыңыз</description>
+    <language>kk</language>
+    <item turbo="true">
+      <link>https://ody.kz</link>
+      <turbo:content>
+        <![CDATA[
+          <header>
+            <h1>Odyssey Exchange - Алғашқы Мемкоин Сауда Платформасы</h1>
+          </header>
+          <h2>Біздің артықшылықтар</h2>
+          <ul>
+            <li>777x дейін жетекші леверидж</li>
+            <li>Спот саудада 0% комиссия</li>
+            <li>Ликвидациядан 10% қайтарым</li>
+            <li>24/7 клиенттерді қолдау</li>
+          </ul>
+          <p>Odyssey Exchange - бұл Қазақстандағы алғашқы мемкоин сауда платформасы. Біз саудагерлерге ең жақсы шарттарды ұсынамыз.</p>
+        ]]>
+      </turbo:content>
+    </item>
+    <item turbo="true">
+      <link>https://ody.kz/about</link>
+      <turbo:content>
+        <![CDATA[
+          <header>
+            <h1>Odyssey Exchange туралы</h1>
+          </header>
+          <p>Odyssey Exchange - бұл мемкоин саудасының болашағы. Біз саудагерлерге ең озық технологияларды ұсынамыз.</p>
+          <h2>Біздің миссия</h2>
+          <p>Мемкоин саудасын барлығына қолжетімді ету. Біз қауіпсіздік, жылдамдық және ыңғайлылықты біріктіреміз.</p>
+        ]]>
+      </turbo:content>
+    </item>
+    <item turbo="true">
+      <link>https://ody.kz/features</link>
+      <turbo:content>
+        <![CDATA[
+          <header>
+            <h1>Odyssey Exchange мүмкіндіктері</h1>
+          </header>
+          <h2>Біздің платформаның негізгі мүмкіндіктері</h2>
+          <ul>
+            <li>Жоғары леверидж - 777x дейін</li>
+            <li>Нөлдік комиссия спот саудада</li>
+            <li>Озық сауда құралдары</li>
+            <li>Көп деңгейлі қауіпсіздік</li>
+          </ul>
+        ]]>
+      </turbo:content>
+    </item>
+  </channel>
+</rss>

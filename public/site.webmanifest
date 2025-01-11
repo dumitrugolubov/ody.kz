@@ -1,0 +1,21 @@
+{
+  "name": "Odyssey Exchange",
+  "short_name": "Odyssey",
+  "description": "Алғашқы Мемкоин Сауда Платформасы",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#111827",
+  "background_color": "#111827",
+  "display": "standalone",
+  "start_url": "/"
+}
