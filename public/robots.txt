@@ -1,5 +1,12 @@
+# Allow crawling for all search engines
 User-agent: *
 Allow: /
+Allow: /about
+Allow: /features
+Allow: /partners
+Allow: /faq
 Disallow: /exchange
+Disallow: /*?*
 
+# Sitemap location
 Sitemap: https://ody.kz/sitemap.xml
