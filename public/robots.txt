@@ -7,6 +7,8 @@ Allow: /partners
 Allow: /faq
 Disallow: /exchange
 Disallow: /*?*
+Disallow: /politika
+Disallow: /Nastrojka-i-SEO-optimizacija-sajta
 
 # Sitemap location
 Sitemap: https://ody.kz/sitemap.xml
